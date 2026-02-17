@@ -1,2 +1,2 @@
 print ("Bienvenue LmsMilo") 
-print (10 / 2)
+print (1000/2)
